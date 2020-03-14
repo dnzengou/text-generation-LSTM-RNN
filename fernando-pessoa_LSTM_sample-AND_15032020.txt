@@ -1,0 +1,162 @@
+gpt2.generate(sess,
+              length=250,
+              temperature=0.7,
+              prefix="And ",
+              nsamples=5,
+              batch_size=5
+              )
+
+
+And Â«men are made all but menÂ» and Â«my love for thee can't begin until thee be at last glorified!Â»
+And all this is useless, for joyâ€™s in joyâ€™s in
+Enjoying, not in thinking of enjoying.
+Its mere thought-mirroring gainst itself doth sin,
+By mere reflecting solid life destroying,
+  Yet the more thought we take to thought to prove
+  It must not think, doth further from joy move.
+
+
+
+
+
+XVII.
+
+
+My love, and not I, is the egoist.
+My love for thee loves itself more than thee;
+Ay, more than me, in whom it doth exist,
+And makes me live that it may feed on me.
+In the country of bridges the bridge is
+More real than the shores it doth unsever;
+So in our world, all of Relation, this
+Is true--that truer is Love than either lover.
+This thought therefore comes lightly to Doubtâ€™s door--
+If we, seeing substance of this world, are not
+Mere Intervals, Godâ€
+====================
+And Â«What man without Manâ€™s self could not be both father and son,
+  And, by co-substance night, both grandfather and great-grandfather.
+
+
+
+
+
+XXV.
+
+
+We are in Fate and Fateâ€™s and do but lack
+Outness from soul to know ourselves its dwelling,
+And do but compel Fate aside or back
+By Fateâ€™s own immanence in the compelling.
+We are too far in us from outward truth
+To know how much we are not what we are,
+And live but in the heat of errorâ€™s youth,
+Yet young enough its acting youth to ignore.
+The doubleness of mind fails us, to glance
+At our exterior presence amid things,
+Sizing from otherness our countenance
+And seeing our puppet willâ€™s act-acting strings.
+  An unknown language speaks in us, which we
+  Are at the words of, fronted from reality.
+
+
+
+
+
+XXVI.
+
+
+The world is woven all of dream and error
+And but one sureness in our truth may lie--
+That when we hold to a
+====================
+And Â«tis sunlessÂ» and Â«there is no sunÂ»;
+And yet the very day they wrong truth by
+Is of the unseen sunâ€™s effluent essence,
+The very words do give themselves the lie,
+The very thought of absence comes from presence:
+Even so deem we through Good of what is evil.
+He speaks of light that speaks of absent light,
+And absent god, becoming present devil,
+Is still the absent god by essenceâ€™ right.
+  The withdrawn cause by being withdrawn doth get
+  (Being thereby cause still) the denied effect.
+
+
+
+
+
+XXIV.
+
+
+Something in me was born before the stars
+And saw the sun begin from far away.
+Our yellow, local day on its wont jars,
+For it hath communed with an absolute day.
+Through my Thoughtâ€™s night, as a worn robeâ€™s heard trail
+That I have never seen, I drag this past
+That saw the Possible like a dawn grow pale
+On the lost night before it, mute and vast.
+It dates remoter than Godâ€™s birth can reach,
+That had
+====================
+And Â«çâ€™tis sunlessÂ» and Â«there is no sunÂ»;
+And yet the very day they wrong truth by
+Is of the unseen sunâ€™s effluent essence,
+The very words do give themselves the lie,
+The very thought of absence comes from presence:
+Even so deem we through Good of what is evil.
+He speaks of light that speaks of absent light,
+And absent god, becoming present devil,
+Is still the absent god by essenceâ€™ right.
+  The withdrawn cause by being withdrawn doth get
+  (Being thereby cause still) the denied effect.
+
+
+
+
+
+XXIV.
+
+
+Something in me was born before the stars
+And saw the sun begin from far away.
+Our yellow, local day on its wont jars,
+For it hath communed with an absolute day.
+Through my Thoughtâ€™s night, as a worn robeâ€™s heard trail
+That I have never seen, I drag this past
+That saw the Possible like a dawn grow pale
+On the lost night before it, mute and vast.
+It dates remoter than Godâ€™s birth can reach
+====================
+And Â«â€™tis sunlessÂ» and Â«there is no sunÂ»;
+And yet the very day they wrong truth by
+Is of the unseen sunâ€™s effluent essence,
+The very words do give themselves the lie,
+The very thought of absence comes from presence:
+Even so deem we through Good of what is evil.
+He speaks of light that speaks of absent light,
+And absent god, becoming present devil,
+Is still the absent god by essenceâ€™ right.
+  The withdrawn cause by being withdrawn doth get
+  (Being thereby cause still) the denied effect.
+
+
+
+
+
+XXIV.
+
+
+Something in me was born before the stars
+And saw the sun begin from far away.
+Our yellow, local day on its wont jars,
+For it hath communed with an absolute day.
+Through my Thoughtâ€™s night, as a worn robeâ€™s heard trail
+That I have never seen, I drag this past
+That saw the Possible like a dawn grow pale
+On the lost night before it, mute and vast.
+It dates remoter than Godâ€™s birth can reach,
+====================
+
+

@@ -1,0 +1,664 @@
+
+
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/memory_saving_gradients.py:62: get_backward_walk_ops (from tensorflow.contrib.graph_editor.select) is deprecated and will be removed after 2019-06-06.
+Instructions for updating:
+Please use tensorflow.python.ops.op_selector.get_backward_walk_ops.
+Loading checkpoint models/355M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/355M/model.ckpt
+
+100%|██████████| 1/1 [00:00<00:00, 213.96it/s]
+
+Loading dataset...
+dataset has 6273 tokens
+Training...
+
+
+[10 | 41.42] loss=3.94 avg=3.94
+[20 | 71.30] loss=2.43 avg=3.18
+[30 | 101.20] loss=1.15 avg=2.50
+[40 | 131.14] loss=1.32 avg=2.20
+[50 | 161.16] loss=0.24 avg=1.80
+[60 | 191.16] loss=0.11 avg=1.51
+[70 | 221.16] loss=0.12 avg=1.31
+[80 | 251.14] loss=0.10 avg=1.15
+[90 | 281.14] loss=0.05 avg=1.02
+[100 | 311.14] loss=0.05 avg=0.92
+[110 | 341.15] loss=0.03 avg=0.84
+[120 | 371.13] loss=0.03 avg=0.76
+[130 | 401.13] loss=0.04 avg=0.71
+[140 | 431.13] loss=0.04 avg=0.65
+[150 | 461.10] loss=0.03 avg=0.61
+[160 | 491.06] loss=0.03 avg=0.57
+[170 | 521.04] loss=0.06 avg=0.54
+[180 | 551.03] loss=0.04 avg=0.51
+[190 | 580.98] loss=1.16 avg=0.55
+[200 | 610.92] loss=0.05 avg=0.52
+======== SAMPLE 1 ========
+Let the soul be,
+Satan is consoled
+When the edge of sadness reveals
+The unacknowledged truth that sorrow doth in
+Pay as much sadness in unacknowledged
+Unwilling to lose sight of its museâ€™s point.
+For the more I see despair, the lower
+My self-penned joy, the more I sink
+In a chasm that cannot be bridged
+By any effort of my willâ€™s will.
+The more I look, the graver my sin
+And the graver my soul
+In despair looks.
+What consciousness makes more by consciousness,
+It makes less, for it makes it less itself,
+My sense of life hath been
+That when I pause to think, I get
+An insight not of my will did
+But of its absence.
+For did I have will,
+Would I have thought of thinking no better
+Would I have thought of nothing else?
+Would I have thought of what it is
+To pause here in wondering what to think
+When all around me
+The questioner fears to ask:
+"What in the world is meant
+By this sad, empty sense of the
+  Happy Thin Red Line?
+  Sincere Love and Tranquillity never fail.
+
+
+
+
+
+III.
+
+
+He that goes back does, since he goes, advance,
+Though he doth not advance who goeth back,
+And he that seeks, though he on nothing chance,
+May still by words be said to find a lack.
+This paradox of having, that is nought
+In the worldâ€™s meaning of the things it screens,
+Is yet true of the substance of pure thought
+And there means something by the nought
+It means â€™tis because the nought
+Means not whatever the things being nought
+Means.
+
+
+
+
+
+IV.
+
+
+There was a certain old man present
+At a certain other manâ€™s birth who
+Was both dead and void of nought
+In every conceivable aspect,
+And all around him the playing of
+Funeral psalms did but add
+To the voidness of everything
+And caused the drunkard to stray
+Even where the solid groundâ€™s Âsparkling
+And nothing to add to the void.
+But when I ask what means that music,
+And, though I get no answer,
+Still the theme of the refrain
+In my soul is with I and my fear
+When the questionerâ€™s trade-mark
+No doubt means to mean anything;
+And when I ask what means that song,
+And, though I get no answer,
+Still the theme of the song
+In my heart sings to the refrain
+That I have heard too soon and
+That I long to hear again.
+It seems to me that the rose
+Is no truer than the brown
+Its hue is in the absent shade,
+Whom the irrefutable colour of place
+Was a doubtful cause by reason of the
+Absence of vouchsafing true colour.
+  Hence,
+  Be my soul poor and come what may,
+  And, sorrowing over the dashed hope of
+  Aught, draw nought from the black
+  Fate of nothingness save the blackest
+  Both sate and run the gauntlet
+  Of black fate and our own will.
+
+
+
+
+
+V.
+
+
+What is the use of trying,
+When despair disimperilled grows
+And nothing doth avail but to be despairing?
+Why, not to try, for nothing doth avail
+But to be despairing agst. Yet
+If this be for nought, to nothing doth availe
+
+But the being-empty sense of being empty
+Awareness of not-try-ing,
+Awareness of the futility of trying
+And, put less mildly, of being "without,"
+  This triumphing humor will not arouse.
+
+
+
+
+
+VI.
+
+
+As a bad orator, badly oâ€™er-book-skilled,
+Doth overflow his purpose with made heat
+And, like a clock, winds with withoutness willed
+What should have been an inner instinctâ€™s feat;
+Or as a prose-wit, harshly poet turned,
+Lacking the subtler music in his measure,
+With useless care labours but to be spurned
+By the more inborn lyricism of his passion,
+I study how to love and how to hate,
+Estranged by consciousness from sentiment,
+With a thought feeling being made worse
+By the more I think, no small part
+I play in making this other, which plays
+Alas! A playâ€™s fate, that side-ways fate,
+
+
+[210 | 681.24] loss=0.05 avg=0.49
+[220 | 711.15] loss=0.06 avg=0.47
+[230 | 741.11] loss=0.03 avg=0.45
+[240 | 771.02] loss=0.05 avg=0.43
+[250 | 800.94] loss=0.05 avg=0.41
+[260 | 831.11] loss=0.01 avg=0.40
+[270 | 861.25] loss=0.06 avg=0.38
+[280 | 891.33] loss=0.03 avg=0.37
+[290 | 921.43] loss=0.06 avg=0.36
+[300 | 951.54] loss=0.02 avg=0.34
+[310 | 981.73] loss=0.02 avg=0.33
+[320 | 1011.98] loss=0.03 avg=0.32
+[330 | 1042.18] loss=0.03 avg=0.31
+[340 | 1072.35] loss=0.02 avg=0.30
+[350 | 1102.54] loss=0.03 avg=0.29
+[360 | 1132.74] loss=0.01 avg=0.28
+[370 | 1162.79] loss=0.01 avg=0.27
+[380 | 1192.78] loss=0.05 avg=0.27
+[390 | 1222.81] loss=0.02 avg=0.26
+[400 | 1252.80] loss=0.03 avg=0.25
+======== SAMPLE 1 ========
+And do all in one sitting
+Repeat the act of loving-own,
+Giving myself the intellect to trace
+My actionâ€™s cause and my forget-me,
+Shall I again regret loving thee?
+Shall I again regret loving thee out of place,
+Out of place in thee, my love, and thy love-will,
+And let no one separate us,
+Oft-unwilled and alienated, from each other,
+Sizing up our tears and storing
+For future use, memoryâ€™s stole glance,
+  An eye for an eye and memory for memory's sake.
+
+
+
+
+
+XXIII.
+
+
+If that apparent part of lifeâ€™s delight
+Our tingled flesh-sense circumscribes were seen
+By aught save reflex and co-carnal sight,
+Joy, flesh and life might prove but a gross screen.
+Haply Truthâ€™s body is no eyable being,
+Appearance even as appearance lies,
+Haply our close, dark, vague, warm sense of seeing
+Is the choked vision of blindfolded eyes.
+Wherefrom what comes to thoughtâ€™s sense of life? Nought.
+All is either the irrational world we see
+Or some aught-else whose being-unknown doth rot
+Its use for our thoughtâ€™s use. Whence taketh me
+  A qualm-like ache of life, a body-deep
+  Soul-hate of what we seek and what we weep.
+
+
+
+
+
+XXIV.
+
+
+I could not eat of the fig tree
+That bore my mother's name, nor
+Cannot now eat of that whose shade
+My father ate and from whose corpse I sprang.
+For the gods are beyond my reach,
+And where they might moulder I would suck.
+Whateâ€™er its sense may mean, its age is twin
+To that of priesthoods whose feet stood near God,
+When knowledge was so great that â€™twas a sin
+And manâ€™s mere soul too man for its abode.
+But when I ask what means that pageant I
+And would look at it suddenly, I lose
+The sense I had of seeing it, nor can try
+Again to look, nor hath my memory a use
+  That seems recalling, save that it recalls
+  An emptiness of having seen those walls.
+
+
+
+
+
+XXV.
+
+
+I could not eat of the fig tree
+That bore my mother's name, nor
+Lest should that father bear me
+My heartâ€™s meting of love and grief.
+Yet when I reflect on these things,
+Why should they not be seen
+By every passing thought?
+Why what it calls Â«worthÂ» does the reflecting
+Make it less than it was?
+Is there any sense, to mine inner ear,
+That doth not involve death, such
+As this, that when I do hear, I do not hear?
+So, if there were sense to listen to,
+Of what use is listening, except that it finds
+Sense? But even so, if sense were worth while
+In listening to be had, â€™twas better
+Why should it not be found
+In listening to find out what means
+ Â«worthÂ» and not in hearing?
+
+
+
+
+
+XXVI.
+
+
+When in the widening circle of rebirth
+To a new flesh my travelled soul shall come
+And try again the unremembered earth
+With the old sadness for the immortal home,
+Shall I revisit these same differing fields
+And cull the old new flowers with the same sense,
+That some small breath of foiled remembrance yields,
+Of more age than my days in this pretence?
+Shall I again regret strange faces lost
+Of which the present memory is forgot
+And but in unseen bulks of vagueness tossed
+Out of the closed sea and black night of Thought?
+  Were thy face one, what sweetness willâ€™t not be,
+  Though by blind feeling, to remember thee!
+
+
+
+
+
+XXVII.
+
+
+Thought was born blind, but Thought knows what is seeing.
+Its careful touch, deciphering forms from shapes,
+Still suggests form as aught whose proper being
+Mere finding touch with erring darkness drapes.
+Yet whence, except from guessed sight, does touch teach
+That touch is but a close and empty sense?
+How does mere touch, self-uncontented, reach
+For some truer senseâ€™s whole intelligence?
+The thing once touched, if touch be now omitted,
+Stands yet in memory real and outward known,
+So the untouching memory of touch is fitted
+With sense of a sense whereby far things
+
+[410 | 1319.52] loss=0.03 avg=0.25
+[420 | 1349.53] loss=0.01 avg=0.24
+[430 | 1379.51] loss=0.02 avg=0.23
+[440 | 1409.50] loss=0.03 avg=0.23
+[450 | 1439.46] loss=0.02 avg=0.22
+[460 | 1469.43] loss=0.04 avg=0.22
+[470 | 1499.40] loss=0.01 avg=0.21
+[480 | 1529.60] loss=0.03 avg=0.21
+[490 | 1559.73] loss=0.04 avg=0.20
+[500 | 1590.00] loss=0.03 avg=0.20
+Saving checkpoint/run1/model-500
+[510 | 1629.15] loss=0.04 avg=0.19
+[520 | 1659.39] loss=0.02 avg=0.19
+[530 | 1689.57] loss=0.02 avg=0.18
+[540 | 1719.83] loss=0.06 avg=0.18
+[550 | 1750.01] loss=0.02 avg=0.18
+[560 | 1780.24] loss=0.06 avg=0.18
+[570 | 1810.40] loss=0.02 avg=0.17
+[580 | 1840.60] loss=0.01 avg=0.17
+[590 | 1870.68] loss=0.03 avg=0.16
+[600 | 1900.82] loss=0.02 avg=0.16
+======== SAMPLE 1 ========
+oth
+To read that verseâ€™s sense of joy
+Is false, for joyâ€™s in me
+And not in my love for thee.
+
+
+
+
+
+XXVII.
+
+
+Thought was born blind, but Thought knows what is seeing.
+Its careful touch, deciphering forms from shapes,
+Still suggests form as aught whose proper being
+Mere finding touch with erring darkness drapes.
+Yet whence, except from guessed sight, does touch teach
+That touch is but a close and empty sense?
+How does mere touch, self-uncontented, reach
+For some truer senseâ€™s whole intelligence?
+The thing once touched, if touch be now omitted,
+Stands yet in memory real and outward known,
+So the untouching memory of touch is fitted
+With sense of a sense whereby far things are shown
+  So, by touch of untouching, wrongly aright,
+  Touchâ€™ thought of seeing sees not things but Sight.
+
+
+
+
+
+XXVIII.
+
+
+My soul is a stiff pageant, man by man,
+Of some Egyptian art than Egypt older,
+Found in some tomb whose rite no guess can scan,
+Where all things else to coloured dust did moulder.
+Whateâ€™er its sense may mean, its age is twin
+To that of priesthoods whose feet stood near God,
+When knowledge was so great that â€™tis but to speak
+And stare at things he did not see.
+But when I ask what means that pageant I
+And would look at it suddenly, I lose
+The sense that parts the seen scene with lost sense,
+And get nothing but sense from imagined sense,
+  And I become the mere sense of the things I search.
+
+
+
+
+
+XXIX.
+
+
+Beauty and love let no one separate,
+Whom exact Nature did to each other fit,
+Giving to Beauty love as finishing fate
+And to Love beauty as true colour of it.
+Let he but friend be who the soul finds fair,
+But let none love outside the bodyâ€™s thought,
+So the seen coupleâ€™s togetherness shall bear
+Truth to the beauty each in the other sought.
+I could but love thee out of mockery
+Of love and thee and mine own ugliness;
+Therefore thy beauty I sing and wish not thee,
+Thanking the Gods I long not out of place,
+  Lest, like a slave that for kingsâ€™ robes doth long,
+  Obtained, shall with mere wearing do them wrong.
+
+
+
+
+
+XX.
+
+
+When in the widening circle of rebirth
+To a new flesh my travelled soul shall come,
+And try again the unremembered earth
+With the old sadness for the immortal home,
+Shall I revisit these same differing fields
+And cull the old new flowers with the same sense,
+That some small breath of foiled remembrance yields,
+Of more age than my days in this pretence?
+Shall I again regret strange faces lost
+Of which the present memory is forgot
+And but in unseen bulks of vagueness tossed
+Out of the closed sea and black night of Thought?
+  Were thy face one, what sweetness willâ€™t not be,
+  Though by blind feeling, to remember thee!
+
+
+
+
+
+XXI.
+
+
+Thought was born blind, but Thought knows what is seeing.
+Its careful touch, deciphering forms from shapes,
+Still suggests form as aught whose proper being
+Mere finding touch with erring darkness drapes.
+Yet whence, except from guessed sight, does touch teach
+That touch is but a close and empty sense?
+How does mere touch, self-uncontented, reach
+For some truer senseâ€™s whole intelligence?
+The thing once touched, if touch be omitted,
+Stands yet in memory real and outward known,
+So the untouching memory of touch is fitted
+With sense of a sense whereby far things are shown
+  So, by touch of untouching, wrongly aright,
+  Touch does teach that sight is but a close and empty sense.
+
+
+
+
+
+XXII.
+
+
+My soul is a stiff pageant, man by man,
+Of some Egyptian art than Egypt older,
+Found in some tomb whose rite no guess can scan,
+Where all things else to coloured dust did moulder.
+Whateâ€™er its sense may mean, its age is twin
+To that of priesthoods whose feet stood near God,
+When knowledge was so great that â€™tis but to speak
+And stare at things he did not see.
+But when I ask what means that pageant I
+And would look at it suddenly, I lose
+The sense that parts the seen world with lost
+
+[610 | 1969.36] loss=0.01 avg=0.16
+[620 | 1999.32] loss=0.03 avg=0.16
+[630 | 2029.26] loss=0.03 avg=0.15
+[640 | 2059.16] loss=0.05 avg=0.15
+[650 | 2089.02] loss=0.03 avg=0.15
+[660 | 2118.87] loss=0.03 avg=0.15
+[670 | 2148.76] loss=0.04 avg=0.14
+[680 | 2178.64] loss=0.03 avg=0.14
+[690 | 2208.56] loss=0.01 avg=0.14
+[700 | 2238.47] loss=0.03 avg=0.14
+[710 | 2268.31] loss=0.03 avg=0.13
+[720 | 2298.15] loss=0.01 avg=0.13
+[730 | 2328.02] loss=0.02 avg=0.13
+[740 | 2357.96] loss=0.02 avg=0.13
+[750 | 2387.88] loss=0.03 avg=0.13
+[760 | 2417.79] loss=0.01 avg=0.12
+[770 | 2447.65] loss=0.03 avg=0.12
+[780 | 2477.56] loss=0.02 avg=0.12
+[790 | 2507.48] loss=0.03 avg=0.12
+[800 | 2537.35] loss=0.03 avg=0.12
+======== SAMPLE 1 ========
+, Â«tis but to love thatâ€™s to be sure;  And if to love was to have been to have proved it, such proves but--
+  How to love feeling for aught â€™s being,
+  How to love seeing it seen as being seen,
+  How to love the seen good   Being for the hoped good,
+  Yet the more thought we take to thought to prove
+  It must not think, doth further from joy move.
+
+
+
+
+
+XVII.
+
+
+My love, and not I, is the egoist.
+My love for thee loves itself more than thee;
+Ay, more than me, in whom it doth exist,
+And makes me live that it may feed on me.
+In the country of bridges the bridge is
+More real than the shores it doth unsever;
+So in our world, all of Relation, this
+Is true--that truer is Love than either lover.
+This thought therefore comes lightly to Doubtâ€™s door--
+If we, seeing substance of this world, are not
+Mere Intervals, Godâ€™s Absence and no more,
+Hollows in real Consciousness and Thought.
+  And if â€™tis possible to Thought to bear this fruit,
+  Why should it not be possible to Truth?
+
+
+
+
+
+XVIII.
+
+
+Indefinite space, which, by co-substance night,
+In one black mystery two void mysteries blends;
+The stray stars, whose innumerable light
+Repeats one mystery till conjecture ends;
+The stream of time, known by birth-bursting bubbles;
+The gulf of silence, empty even of nought;
+Thoughtâ€™s high-walled maze, which the outed owner troubles
+Because the stringâ€™s lost and the plan forgot:
+When I think on this and that here I stand,
+The thinker of these thoughts, emptily wise,
+Holding up to my thinking my thing-hand
+And looking at it with thought-alien eyes,
+  The prayer of my wonder looketh past
+  The universal darkness lone and vast.
+
+
+
+
+
+XIX.
+
+
+Beauty and love let no one separate,
+Whom exact Nature did to each other fit,
+Giving to Beauty love as finishing fate
+And to Love beauty as true colour of it.
+Let he but friend be who the soul finds fair,
+But let none love outside the bodyâ€™s thought,
+So the seen coupleâ€™s togetherness shall bear
+Truth to the beauty each in the other sought.
+I could but love thee out of mockery
+Of love and thee and mine own ugliness;
+Therefore thy beauty I sing and wish not thee,
+Thanking the Gods I long not out of place,
+  Lest, like a slave that for kingsâ€™ robes doth long,
+  Obtained, shall with mere wearing do them wrong.
+
+
+
+
+
+XX.
+
+
+When in the widening circle of rebirth
+To a new flesh my travelled soul shall come,
+And try again the unremembered earth
+With the old sadness for the immortal home,
+Shall I revisit these same differing fields
+And cull the old new flowers with the same sense,
+That some small breath of foiled remembrance yields,
+Of more age than my days on this human body?
+Shall I again regret strange faces lost
+Of which the present memory is forgot
+And but in unseen bulks of vagueness tossed
+Out of the closed sea and black night of Thought?
+  Were thy face one, what sweetness willâ€™t not be,
+  Though by blind feeling, to remember thee!
+
+
+
+
+
+XXI.
+
+
+Thought was born blind, but Thought knows what is seeing.
+Its careful touch, deciphering forms from shapes,
+Still suggests form as aught whose proper being
+Mere finding touch with erring darkness drapes.
+Yet whence, except from guessed sight, does touch teach
+That touch is but a close and empty sense?
+How does mere touch, self-uncontented, reach
+For some truer senseâ€™s whole intelligence?
+The thing once touched, if touch be now omitted,
+Stands yet in memory real and outward known,
+So the untouching memory of touch is fitted
+With sense of a sense whereby far things are shown
+  So, by touch of untouching, wrongly aright,
+  Touchâ€™ thought of seeing sees not things but Sight.
+
+
+
+
+
+XXII.
+
+
+My soul is a stiff pageant, man by man,
+Of some Egyptian art than Egypt older,
+Found in some tomb whose rite no guess can scan,
+Where all things else
+
+[810 | 2604.88] loss=0.04 avg=0.12
+[820 | 2634.81] loss=0.01 avg=0.11
+[830 | 2664.66] loss=0.02 avg=0.11
+[840 | 2694.48] loss=0.01 avg=0.11
+[850 | 2724.31] loss=0.03 avg=0.11
+[860 | 2754.15] loss=0.08 avg=0.11
+[870 | 2783.98] loss=0.02 avg=0.11
+[880 | 2813.82] loss=0.01 avg=0.10
+[890 | 2843.63] loss=0.02 avg=0.10
+[900 | 2873.58] loss=0.02 avg=0.10
+[910 | 2903.87] loss=0.01 avg=0.10
+[920 | 2934.03] loss=0.01 avg=0.10
+[930 | 2964.32] loss=0.02 avg=0.10
+[940 | 2994.49] loss=0.02 avg=0.10
+[950 | 3024.70] loss=0.03 avg=0.10
+[960 | 3054.93] loss=0.03 avg=0.09
+[970 | 3085.12] loss=0.03 avg=0.09
+[980 | 3115.34] loss=0.01 avg=0.09
+[990 | 3145.57] loss=0.03 avg=0.09
+[1000 | 3175.59] loss=0.01 avg=0.09
+Saving checkpoint/run1/model-1000
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+
+
+==================================================================
+
+seed.
+
+And I become the mere sense of a rage that doth not even my might may wholly conquer,
+  And I become the mere sense of a runny nose that cannot even my might bear,
+  That hears, not things that speak, nor sights that look,
+  And has no name for seeing that speaks itself.
+
